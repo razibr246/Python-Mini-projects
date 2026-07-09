@@ -1,3 +1,3 @@
  # Python-Mini-projects
 I’m mainly keeping this as inspiration so that in the future, when I look back at my GitHub, I can feel good knowing that I at least built something and made progress, even if it was small....
- 
+  
